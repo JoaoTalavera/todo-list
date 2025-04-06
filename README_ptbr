@@ -1,0 +1,20 @@
+# Gerenciador de Tarefas
+
+Este é um simples Gerenciador de Tarefas de linha de comando escrito em Python.  
+Ele permite criar, visualizar, marcar como concluídas e excluir tarefas.  
+As tarefas são salvas em um arquivo JSON local (`tasks.json`) para que sejam mantidas entre sessões.
+
+## ✨ Funcionalidades
+
+- Visualizar todas as tarefas com seus status.
+- Adicionar novas tarefas.
+- Marcar tarefas como concluídas.
+- Remover tarefas.
+- Armazenamento persistente utilizando JSON.
+
+## 📦 Como Usar
+
+1. Execute o programa:
+
+```bash
+python "ToDo list.py"
