@@ -1,0 +1,19 @@
+# 📝 Task Manager
+
+This is a simple command-line Task Manager written in Python.  
+It allows you to create, view, mark as completed, and delete tasks.  
+The tasks are saved in a local JSON file (`tasks.json`) to persist between sessions.
+
+## 📌 Features
+
+- View all your tasks with their statuses.
+- Add new tasks.
+- Mark tasks as done.
+- Remove tasks.
+- Persistent storage using JSON.
+
+## ▶️ How to Use
+
+1. Run the program:
+   ```bash
+   python "ToDo list.py"
